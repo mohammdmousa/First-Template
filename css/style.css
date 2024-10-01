@@ -11,6 +11,7 @@
     --thirdcolor:#eee;
     --fourthcolor:#6a6e71;
     --fifthcolor:#191e22;
+    --sexthcolor:#bbb 
 }
 html{scroll-behavior: smooth;}
 @media (min-width:768px)
